@@ -1,0 +1,15 @@
+{
+  "servers": {
+    "auto-api": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "api-auto-mcp-server",
+        "--openapi-url",
+        "http://localhost:3000/openapi",
+        "--cookie",
+        "auth=your-cookie-value"
+      ],
+    }
+  }
+}
