@@ -4,6 +4,7 @@ import { REFUND_LOGS } from './mock/refund-log.mock';
 
 @Injectable()
 export class RefundLogService {
+  // @ts-ignore
   private readonly refundLogs: RefundLogDto[] = REFUND_LOGS;
 
   findByUserId(userId: number): RefundLogDto[] {

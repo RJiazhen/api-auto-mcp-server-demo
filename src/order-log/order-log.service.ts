@@ -4,6 +4,7 @@ import { ORDERS } from './mock/order.mock';
 
 @Injectable()
 export class OrderLogService {
+  // @ts-ignore
   private readonly orders: OrderDto[] = ORDERS;
 
   findByUserId(userId: number): OrderDto[] {

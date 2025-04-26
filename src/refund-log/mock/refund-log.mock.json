@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "orderNumber": "ORD-2024-001",
+    "refundNumber": "RFD-2024-001",
+    "refundAmount": 2499.99,
+    "reason": "Product defective - MacBook screen flickering",
+    "status": "approved",
+    "refundDate": "2024-02-15T00:00:00.000Z",
+    "notes": "Full refund approved after technical inspection"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "orderNumber": "ORD-2024-002",
+    "refundNumber": "RFD-2024-002",
+    "refundAmount": 79.99,
+    "reason": "Wrong item received - Magic Mouse color mismatch",
+    "status": "approved",
+    "refundDate": "2024-02-20T00:00:00.000Z",
+    "notes": "Customer to return wrong item within 7 days"
+  }
+]

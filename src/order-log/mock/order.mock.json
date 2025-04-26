@@ -1,0 +1,65 @@
+// @ts-check
+/** @typedef {import('../dto/order.dto').OrderDto} OrderDto */
+/** @type {OrderDto[]} */
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "orderNumber": "ORD-2024-001",
+    "totalAmount": 2669.97,
+    "purchaseDate": "2024-01-15T00:00:00.000Z",
+    "items": [
+      {
+        "id": 1,
+        "orderId": 1,
+        "itemName": "MacBook Pro 16\"",
+        "price": 2499.99,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "orderId": 1,
+        "itemName": "Apple Magic Mouse",
+        "price": 79.99,
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "orderId": 1,
+        "itemName": "USB-C Hub",
+        "price": 89.99,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "orderNumber": "ORD-2024-002",
+    "totalAmount": 1359.96,
+    "purchaseDate": "2024-01-20T00:00:00.000Z",
+    "items": [
+      {
+        "id": 4,
+        "orderId": 2,
+        "itemName": "Designer Handbag",
+        "price": 899.99,
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "orderId": 2,
+        "itemName": "Silk Scarf",
+        "price": 129.99,
+        "quantity": 2
+      },
+      {
+        "id": 6,
+        "orderId": 2,
+        "itemName": "Leather Wallet",
+        "price": 199.99,
+        "quantity": 1
+      }
+    ]
+  }
+]
