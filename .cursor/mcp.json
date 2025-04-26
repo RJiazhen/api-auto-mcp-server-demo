@@ -8,7 +8,7 @@
         "--openapi-url",
         "http://localhost:3000/openapi",
         "--cookie",
-        "auth=your-cookie-here"
+        "auth=123"
       ]
     }
   }
