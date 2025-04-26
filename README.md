@@ -1,4 +1,4 @@
-# API Auto MCP Server Test
+# API Auto MCP Server Demo
 
 This is a demo project for testing and demonstrating the features of [API Auto MCP Server](https://github.com/RJiazhen/api-auto-mcp-server).
 
@@ -45,7 +45,7 @@ If you are using Cursor, open the `Cursor Settings` -> `MCP` menu, locate the MC
 
 #### VSCode
 
-If you are using VSCode, open the GitHub Copilot chat window and click the refresh button. When prompted with `Trust MCP Server from api-auto-mcp-server-test/.cursor/mcp.json?`, click `Trust`. The refresh button will change to a wrench icon with a number displayed.
+If you are using VSCode, open the GitHub Copilot chat window and click the refresh button. When prompted with `Trust MCP Server from api-auto-mcp-server-demo/.cursor/mcp.json?`, click `Trust`. The refresh button will change to a wrench icon with a number displayed.
 
 ![VSCode Settings Page](./docs/images/2.png)
 

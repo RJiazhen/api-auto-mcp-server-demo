@@ -1,4 +1,4 @@
-# API Auto MCP Server Test
+# API Auto MCP Server Demo
 
 [API Auto MCP Server](https://github.com/RJiazhen/api-auto-mcp-server)的测试demo，用于演示和测试API Auto MCP Server的功能。
 
@@ -44,7 +44,7 @@ npm run dev
 
 #### VScode
 
-如果是使用VScode打开该项目，打开Github Copilot的聊天窗口，点击刷新按钮，出现提示`Trust MCP Server from api-auto-mcp-server-test/.cursor/mcp.json?`，点击`Trust`。然后就可以看到刷新按钮变为扳手按钮，并出现数字。
+如果是使用VScode打开该项目，打开Github Copilot的聊天窗口，点击刷新按钮，出现提示`Trust MCP Server from api-auto-mcp-server-demo/.cursor/mcp.json?`，点击`Trust`。然后就可以看到刷新按钮变为扳手按钮，并出现数字。
 
 ![VScode设置页面](./images/2.png)
 
