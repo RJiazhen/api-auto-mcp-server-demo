@@ -1,0 +1,37 @@
+14E
+data: {"choices":[],"created":0,"id":"","prompt_filter_results":[{"content_filter_results":{"error":{"code":"","message":""},"hate":{"filtered":false,"severity":"safe"},"self_harm":{"filtered":false,"severity":"safe"},"sexual":{"filtered":false,"severity":"safe"},"violence":{"filtered":false,"severity":"safe"}},"prompt_index":0}]}
+
+
+15B
+data: {"choices":[{"index":0,"delta":{"content":null,"role":"assistant","tool_calls":[{"function":{"arguments":"","name":"331_GET-users-byId"},"id":"call_J0Qpk5HjZMVkvtaf8XO65tGI","index":0,"type":"function"}]}}],"created":1745798968,"id":"chatcmpl-BR6LoOd9mw2MKnCAenhRGq0AXGXml","model":"gpt-4o-2024-11-20","system_fingerprint":"fp_ee1d74bde0"}
+
+
+F8
+data: {"choices":[{"index":0,"delta":{"content":null,"tool_calls":[{"function":{"arguments":"{\""},"index":0}]}}],"created":1745798968,"id":"chatcmpl-BR6LoOd9mw2MKnCAenhRGq0AXGXml","model":"gpt-4o-2024-11-20","system_fingerprint":"fp_ee1d74bde0"}
+
+
+F7
+data: {"choices":[{"index":0,"delta":{"content":null,"tool_calls":[{"function":{"arguments":"id"},"index":0}]}}],"created":1745798968,"id":"chatcmpl-BR6LoOd9mw2MKnCAenhRGq0AXGXml","model":"gpt-4o-2024-11-20","system_fingerprint":"fp_ee1d74bde0"}
+
+
+F8
+data: {"choices":[{"index":0,"delta":{"content":null,"tool_calls":[{"function":{"arguments":"\":"},"index":0}]}}],"created":1745798968,"id":"chatcmpl-BR6LoOd9mw2MKnCAenhRGq0AXGXml","model":"gpt-4o-2024-11-20","system_fingerprint":"fp_ee1d74bde0"}
+
+
+F6
+data: {"choices":[{"index":0,"delta":{"content":null,"tool_calls":[{"function":{"arguments":"1"},"index":0}]}}],"created":1745798968,"id":"chatcmpl-BR6LoOd9mw2MKnCAenhRGq0AXGXml","model":"gpt-4o-2024-11-20","system_fingerprint":"fp_ee1d74bde0"}
+
+
+F6
+data: {"choices":[{"index":0,"delta":{"content":null,"tool_calls":[{"function":{"arguments":"}"},"index":0}]}}],"created":1745798968,"id":"chatcmpl-BR6LoOd9mw2MKnCAenhRGq0AXGXml","model":"gpt-4o-2024-11-20","system_fingerprint":"fp_ee1d74bde0"}
+
+
+1AD
+data: {"choices":[{"finish_reason":"tool_calls","index":0,"delta":{"content":null}}],"created":1745798968,"id":"chatcmpl-BR6LoOd9mw2MKnCAenhRGq0AXGXml","usage":{"completion_tokens":19,"completion_tokens_details":{"accepted_prediction_tokens":0,"rejected_prediction_tokens":0},"prompt_tokens":3774,"prompt_tokens_details":{"cached_tokens":0},"total_tokens":3793},"model":"gpt-4o-2024-11-20","system_fingerprint":"fp_ee1d74bde0"}
+
+
+E
+data: [DONE]
+
+
+0
