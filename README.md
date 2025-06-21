@@ -14,7 +14,7 @@ This is a demo project for testing and demonstrating the features of [API Auto M
 Run the following command in the project root directory to install dependencies:
 
 ```bash
-bun install # Recommended
+bun install --frozen-lockfile # Recommended
 # or
 npm install
 ```
@@ -26,9 +26,9 @@ Open the project in an IDE like VSCode or Cursor, and **press F5 to run (recomme
 Alternatively, you can start the server by running the following command in the root directory:
 
 ```bash
-bun dev # Recommended
+bun start:dev # Recommended
 # or
-npm run dev
+npm run start:dev
 ```
 
 ### Access the Service
