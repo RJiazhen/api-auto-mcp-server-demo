@@ -14,7 +14,7 @@
 在项目根目录下，执行以下命令安装依赖：
 
 ```bash
-bun install # 推荐
+bun install --frozen-lockfile # 推荐
 # 或
 npm install
 ```
@@ -26,9 +26,9 @@ npm install
 或在根目录下执行以下命令启动服务：
 
 ```bash
-bun dev # 推荐
+bun start:dev # 推荐
 # 或
-npm run dev
+npm run start:dev
 ```
 
 ### 访问服务
@@ -39,7 +39,7 @@ npm run dev
 
 #### Cursor
 
-如果是使用Cursor打开该项目，根据下图示意，打开`Cursor Settings`-`MCP`，找到名为`api-auto`的MCP服务器，将其设置为开启状态，如果开启成功了，则会出现各种可用的Tools。
+如果是使用Cursor打开该项目，根据下图示意，打开`Cursor Settings`-`Tools & Integrations`，找到名为`api-auto`的MCP服务器，将其设置为开启状态，如果开启成功了，则会出现各种可用的Tools。
 ![Cursor设置页面](./images/1.png)
 
 #### VScode

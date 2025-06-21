@@ -1,5 +1,7 @@
 # API Auto MCP Server Demo
 
+[中文文档](./docs/README_zh.md)
+
 This is a demo project for testing and demonstrating the features of [API Auto MCP Server](https://github.com/RJiazhen/api-auto-mcp-server).
 
 ## Quick Start
@@ -39,7 +41,7 @@ Once the server is running, visit http://localhost:3000/api-docs to view the API
 
 #### Cursor
 
-If you are using Cursor, open the `Cursor Settings` -> `MCP` menu, locate the MCP server named `api-auto`, and enable it. Once enabled, various tools will become available.
+If you are using Cursor, open the `Cursor Settings` -> `Tools & Integrations` menu, locate the MCP server named `api-auto`, and enable it. Once enabled, various tools will become available.
 
 ![Cursor Settings Page](./docs/images/1.png)
 
